@@ -4,8 +4,12 @@
 body {
     font-family: 'Mulish', sans-serif;
     background-color: purple;
-    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
     margin: 0;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
