@@ -26,7 +26,7 @@ body {
     padding: 15px;
     height: 50px;
     width: 50px;
-    transition: width is ease;
+    transition: width 1s ease;
 }
 
 .btn {
