@@ -1,9 +1,9 @@
 const bg = document.querySelector('.bg')
-const loadText = document.querySelector('loading-text')
+const loadText = document.querySelector('.loading-text')
 
 let load = 0
 
-let int = interval(blurring, 30)
+let int = setInterval(blurring, 30)
 
 function blurring(){
     load++
