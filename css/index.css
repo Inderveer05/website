@@ -1,5 +1,12 @@
 
 
 body {
-    
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
 }
